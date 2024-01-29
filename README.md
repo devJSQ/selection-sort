@@ -12,7 +12,7 @@ In this project, we will cover the fundamentals of a `Selection Sort Algorithm`,
 
 ### Implementation
 
-Build a method `selectionSort` that takes an array and returns a sorted array then prints it in the main method.
+Build the `selectionSort` method that takes an array and returns a sorted array then prints it in the main method.
 
 ```java
 public class Main {
